@@ -58,3 +58,8 @@ frontend/.streamlit/
 Thumbs.db
 desktop.ini
 __MACOSX/
+
+
+# macOS
+.DS_Store
+_MACOSX/
