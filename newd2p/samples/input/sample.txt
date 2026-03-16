@@ -1,0 +1,47 @@
+Doc2PPT Sample Document
+
+Title: The Future of Artificial Intelligence
+
+Introduction
+Artificial Intelligence (AI) is transforming industries across the globe. 
+From healthcare and finance to education and transportation, AI-driven 
+solutions are improving efficiency, accuracy, and decision-making.
+
+What is Artificial Intelligence?
+Artificial Intelligence refers to the simulation of human intelligence 
+in machines that are programmed to think, learn, and solve problems. 
+It includes technologies such as machine learning, deep learning, 
+natural language processing, and computer vision.
+
+Applications of AI
+1. Healthcare:
+   AI assists doctors in diagnosing diseases, predicting patient outcomes, 
+   and personalizing treatment plans.
+
+2. Finance:
+   AI is used for fraud detection, algorithmic trading, and risk assessment.
+
+3. Education:
+   AI-powered tools provide personalized learning experiences and 
+   automate administrative tasks.
+
+4. Transportation:
+   Self-driving cars and smart traffic management systems rely on AI.
+
+Benefits of AI
+- Increased productivity
+- Improved accuracy
+- Faster data processing
+- Automation of repetitive tasks
+
+Challenges of AI
+Despite its advantages, AI presents challenges such as:
+- Ethical concerns
+- Data privacy risks
+- Job displacement
+- Bias in algorithms
+
+Conclusion
+Artificial Intelligence is a powerful technology with immense potential. 
+While it offers numerous benefits, responsible development and ethical 
+considerations are essential to ensure a positive impact on society.

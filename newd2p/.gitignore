@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging / build
+build/
+dist/
+site/
+*.egg-info/
+.dist/
+
+# Test / coverage / tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Project runtime data
+generated_output/
+temp_uploads/
+logs/
+data/faiss_index/
+
+# Frontend / local assets caches
+frontend/.streamlit/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
